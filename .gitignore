@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Dataset
+data/*.csv
+
+# Model files
+model/*.keras
+
+# OS
+.DS_Store
